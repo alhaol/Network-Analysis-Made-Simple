@@ -14,7 +14,7 @@ Welcome to the GitHub repository for Network Analysis Made Simple! This is a tut
 
 If you don't want the hassle of getting setup, you can use the Binder service to participate in the live tutorial. Just click on the button below:
 
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/ericmjl/Network-Analysis-Made-Simple/master)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/alhaol/Network-Analysis-Made-Simple.git/master)
 
 
 ### Notebook HTML Versions
